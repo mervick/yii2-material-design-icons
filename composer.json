@@ -1,0 +1,30 @@
+{
+    "name": "mervick/yii2-material-design-icons",
+    "description": "Asset Bundle For Yii2 Framework With Google Material Design Icons",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Izman",
+            "email": "izmanw@gmail.com"
+        }
+    ],
+    "keywords": [
+        "icons", "material", "material-design", "google", "icons-web-font", "web-font",
+        "bootstrap", "yii2", "asset-bundle", "asset", "bundle"
+    ],
+    "homepage": "http://github.com/mervick/yii2-material-design-icons",
+    "support": {
+        "source": "http://github.com/mervick/yii2-material-design-icons"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "mervick/material-design-icons": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\materialicons\\": ""
+        }
+    }
+}
