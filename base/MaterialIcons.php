@@ -4,6 +4,10 @@ namespace yii\materialicons\base;
 
 use yii\base\Object;
 
+/**
+ * Class MaterialIcons
+ * @package yii\materialicons\base
+ */
 abstract class MaterialIcons extends Object
 {
     /**
