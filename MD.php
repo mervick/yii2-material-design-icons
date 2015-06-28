@@ -2,12 +2,15 @@
 
 namespace yii\materialicons;
 
+use yii\materialicons\base\MaterialIcons;
+
+
 /**
  * Class MD
  * @package yii\materialicons
  * @author Andrey Izman <izmanw@gmail.com>
  */
-class MD
+class MD extends MaterialIcons
 {
     /**
      * @var string Css class prefix
