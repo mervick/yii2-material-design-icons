@@ -3,6 +3,9 @@
 namespace yii\materialicons\base;
 
 use yii\base\Object;
+use yii\materialicons\component\Icon;
+use yii\materialicons\component\Stack;
+
 
 /**
  * Class MaterialIcons
@@ -13,20 +16,20 @@ abstract class MaterialIcons extends Object
     /**
      * @param string $name
      * @param array $options
-     * @return yii\materialicons\component\Icon
+     * @return Icon
      */
     public static function icon($name, $options = [])
     {
-        return new component\Icon($name, $options);
+        return new Icon($name, $options);
     }
 
     /**
      * @param array $options
-     * @return component\Stack
+     * @return Stack
      */
     public static function stack($options = [])
     {
-        return new component\Stack($options);
+        return new Stack($options);
     }
 
     /**
