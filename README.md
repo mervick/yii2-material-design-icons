@@ -1,7 +1,7 @@
 # Yii2 Material Design Icons Asset Bundle
 The extension provides Asset Bundle for Yii2-Framework with 
 [Google Material Design Icons](https://github.com/google/material-design-icons) and Icon helper for 
-use icons font in [Bootsrtap-style](https://github.com/mervick/material-design-icons#where-are-two-ways-to-usage)".
+use icons font in [Bootsrtap-style](https://github.com/mervick/material-design-icons#where-are-two-ways-to-usage).
 
 ## Installation
 Recommended way to install via [composer](https://getcomposer.org/):
