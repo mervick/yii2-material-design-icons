@@ -15,7 +15,7 @@ class MD extends MaterialIcons
     /**
      * @var string Css class prefix
      */
-    public static $cssPrefix = 'md';
+    public static $cssPrefix = 'mdi';
 
 
     /**
