@@ -6,7 +6,7 @@ use icons font in [Bootsrtap-style](https://github.com/mervick/material-design-i
 ## Installation
 Recommended way to install via [composer](https://getcomposer.org/):
 ```bash
-$ composer require "mervick/yii2-material-design-icons" "*"
+$ composer require "mervick/yii2-material-design-icons" "~1.0"
 ```
 
 ## Usage
