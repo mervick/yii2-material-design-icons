@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.4.0",
         "yiisoft/yii2": "*",
-        "mervick/material-design-icons": "*"
+        "mervick/material-design-icons": "~1.0"
     },
     "autoload": {
         "psr-4": {
