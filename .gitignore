@@ -16,3 +16,7 @@ Thumbs.db
 .DS_Store
 
 /test
+/tests
+/tests/_output/*
+
+codeception.yml
