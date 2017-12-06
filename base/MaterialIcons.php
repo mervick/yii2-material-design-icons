@@ -2,7 +2,7 @@
 
 namespace yii\materialicons\base;
 
-use yii\base\Object;
+use yii\base\BaseObject;
 use yii\materialicons\component\Icon;
 use yii\materialicons\component\Stack;
 
@@ -11,7 +11,7 @@ use yii\materialicons\component\Stack;
  * Class MaterialIcons
  * @package yii\materialicons\base
  */
-abstract class MaterialIcons extends Object
+abstract class MaterialIcons extends BaseObject
 {
     /**
      * @param string $name
